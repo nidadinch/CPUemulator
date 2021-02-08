@@ -27,7 +27,7 @@ If you want to improve my code, please comment. Your feedbacks are important. Th
 Your Java package must be installed to compile the project. After installing Java or already installed;
 
 1. Matrix indices:
-```sh
+   ```sh
    javac printingMatrixIndices.java 
 
    ```
@@ -38,7 +38,7 @@ Your Java package must be installed to compile the project. After installing Jav
 
 
 1. Matrix multiplication to multiply two matrices of size m×n and n×p to produce and print mxp result matrix:
-```sh
+   ```sh
    javac matrixProduct.java 
 
    ```
@@ -49,7 +49,7 @@ Your Java package must be installed to compile the project. After installing Jav
    
    
 1. Matrix multiplication program with manual matrices by STORE and LOAD commands: 
-```sh
+   ```sh
    javac matrixProduct.java 
 
    ```
