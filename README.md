@@ -16,8 +16,6 @@ A CPU emulator software that supports a basic instruction set given below that w
 [![instructions](https://i.imgur.com/M5vaj7x.png)](https://i.imgur.com/M5vaj7x.png)
 
 
-If you want to improve my code, please comment. Your feedbacks are important. Thank you!
-
 ## Built With 
 
 * Java
